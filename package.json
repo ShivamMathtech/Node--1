@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.21.0",
+    "nodemon": "^3.1.7"
+  },
+  "name": "shivam_server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "shivam singh",
+  "license": "ISC",
+  "description": "first version",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShivamMathtech/Node--1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ShivamMathtech/Node--1/issues"
+  },
+  "homepage": "https://github.com/ShivamMathtech/Node--1#readme"
+}
